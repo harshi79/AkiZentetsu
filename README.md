@@ -61,3 +61,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 34. Preserve existing project style where practical.
 35. Run relevant checks before suggesting a PR.
 36. Report failed checks without hiding them.
+37. Identify any code produced by the assistant.
