@@ -82,3 +82,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 ### Achievement information
 
 51. Only GitHub can award GitHub profile achievements.
+52. Display observed achievements separately from estimates.
