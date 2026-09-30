@@ -11,3 +11,9 @@ A GitHub achievement coach concept: help people discover meaningful open-source 
 The goal is useful contributions, not artificial activity or badge farming.
 
 > This project is at the idea stage; these features are not implemented yet.
+
+## Design notes
+
+### Contributor experience
+
+1. Let contributors select languages they want to practice.
