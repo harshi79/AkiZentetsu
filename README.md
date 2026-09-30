@@ -39,3 +39,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 18. Offer documentation tasks alongside code tasks.
 19. Explain when a repository requires prior discussion.
 20. Provide a direct link to the original issue.
+
+### Planning
+
+21. Summarize the requested change before suggesting an approach.
