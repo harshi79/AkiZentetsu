@@ -63,3 +63,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 36. Report failed checks without hiding them.
 37. Identify any code produced by the assistant.
 38. Let the contributor review a diff before submission.
+39. Never claim that a human wrote assistant-generated code.
