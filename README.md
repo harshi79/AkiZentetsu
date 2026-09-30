@@ -136,3 +136,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 91. Start with a read-only prototype.
 92. Document required GitHub permissions before adding login.
 93. Test recommendation ranking against sample issues.
+94. Add integration tests before enabling write actions.
