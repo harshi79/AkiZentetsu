@@ -65,3 +65,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 38. Let the contributor review a diff before submission.
 39. Never claim that a human wrote assistant-generated code.
 40. Do not merge a contribution without explicit authorization.
+
+### Review
+
+41. Review changes against the original issue.
