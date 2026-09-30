@@ -59,3 +59,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 32. Prefer focused patches over unrelated refactors.
 33. Explain the reason for each proposed change.
 34. Preserve existing project style where practical.
+35. Run relevant checks before suggesting a PR.
