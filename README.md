@@ -32,3 +32,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 11. Prefer issues with a clear description and acceptance criteria.
 12. Check whether the repository has contribution instructions.
 13. Consider whether maintainers have responded recently.
+14. Avoid recommending issues already assigned to someone else.
