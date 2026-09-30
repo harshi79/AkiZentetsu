@@ -134,3 +134,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 ### Delivery
 
 91. Start with a read-only prototype.
+92. Document required GitHub permissions before adding login.
