@@ -52,3 +52,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 28. Let the contributor edit the plan before proceeding.
 29. Record decisions made during a collaboration.
 30. Keep plans short enough to review.
+
+### Co-authoring
+
+31. Ask before making changes to contributor-owned branches.
