@@ -50,3 +50,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 26. Include expected checks in the plan.
 27. Explain when a plan depends on maintainer input.
 28. Let the contributor edit the plan before proceeding.
+29. Record decisions made during a collaboration.
