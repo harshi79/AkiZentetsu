@@ -122,3 +122,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 
 81. Measure whether recommendations are accepted or dismissed.
 82. Track whether suggested issues remain available.
+83. Collect feedback on recommendation quality.
