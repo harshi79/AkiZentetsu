@@ -69,3 +69,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 ### Review
 
 41. Review changes against the original issue.
+42. Point to specific lines when raising a concern.
