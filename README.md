@@ -76,3 +76,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 46. Acknowledge when a concern cannot be reproduced.
 47. Avoid posting duplicate review comments.
 48. Respect the repository’s review etiquette.
+49. Help respond to maintainer feedback constructively.
