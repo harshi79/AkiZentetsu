@@ -110,3 +110,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 71. Use descriptive labels for controls.
 72. Ensure keyboard access to the main workflow.
 73. Do not communicate status using color alone.
+74. Keep progress descriptions readable by screen readers.
