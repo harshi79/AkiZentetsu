@@ -58,3 +58,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 31. Ask before making changes to contributor-owned branches.
 32. Prefer focused patches over unrelated refactors.
 33. Explain the reason for each proposed change.
+34. Preserve existing project style where practical.
