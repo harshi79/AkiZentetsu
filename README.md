@@ -117,3 +117,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 78. Allow users to pause notifications.
 79. Keep recommendation reasons readable on small screens.
 80. Test important flows without a mouse.
+
+### Measurement
+
+81. Measure whether recommendations are accepted or dismissed.
