@@ -75,3 +75,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 45. Check whether tests cover the changed behavior.
 46. Acknowledge when a concern cannot be reproduced.
 47. Avoid posting duplicate review comments.
+48. Respect the repository’s review etiquette.
