@@ -18,3 +18,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 
 1. Let contributors select languages they want to practice.
 2. Let contributors select topics they care about.
+3. Allow contributors to set a weekly time budget.
