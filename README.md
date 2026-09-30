@@ -26,3 +26,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 8. Keep the contributor in control of all public interactions.
 9. Make next steps understandable without achievement jargon.
 10. Ask for feedback when a suggestion is not useful.
+
+### Issue discovery
+
+11. Prefer issues with a clear description and acceptance criteria.
