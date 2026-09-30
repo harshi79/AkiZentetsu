@@ -101,3 +101,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 65. Offer a clear way to disconnect GitHub access.
 66. Explain what data is retained and for how long.
 67. Provide a path to delete stored account data.
+68. Apply rate limits to automated GitHub actions.
