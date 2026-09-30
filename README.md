@@ -142,3 +142,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 97. Offer a changelog for user-visible behavior.
 98. Document known limitations alongside each release.
 99. Invite contributors to challenge inaccurate assumptions.
+100. Ship only when the opt-in workflow is understandable.
