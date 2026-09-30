@@ -128,3 +128,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 86. Review whether newcomers receive useful first tasks.
 87. Check how often progress estimates are uncertain.
 88. Monitor failed GitHub API calls.
+89. Report aggregate metrics without exposing private activity.
