@@ -98,3 +98,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 62. Use the least GitHub permissions needed for each feature.
 63. Keep secrets out of logs and suggested patches.
 64. Do not reveal private repository details in public output.
+65. Offer a clear way to disconnect GitHub access.
