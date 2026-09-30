@@ -97,3 +97,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 61. Require consent before posting comments or opening PRs.
 62. Use the least GitHub permissions needed for each feature.
 63. Keep secrets out of logs and suggested patches.
+64. Do not reveal private repository details in public output.
