@@ -90,3 +90,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 57. Prefer contribution quality over badge speed.
 58. Do not encourage self-interactions to inflate activity.
 59. Identify which activity data is unavailable.
+60. Show when achievement data was last checked.
