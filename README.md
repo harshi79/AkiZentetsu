@@ -30,3 +30,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 ### Issue discovery
 
 11. Prefer issues with a clear description and acceptance criteria.
+12. Check whether the repository has contribution instructions.
