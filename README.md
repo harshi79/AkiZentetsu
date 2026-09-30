@@ -99,3 +99,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 63. Keep secrets out of logs and suggested patches.
 64. Do not reveal private repository details in public output.
 65. Offer a clear way to disconnect GitHub access.
+66. Explain what data is retained and for how long.
