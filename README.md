@@ -87,3 +87,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 54. Allow for GitHub rules changing without notice.
 55. Do not show a precise percentage when rules are unknown.
 56. Avoid guaranteeing an achievement for a specific action.
+57. Prefer contribution quality over badge speed.
