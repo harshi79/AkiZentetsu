@@ -126,3 +126,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 84. Measure completed contributions without treating volume as quality.
 85. Watch for accidental duplicate suggestions.
 86. Review whether newcomers receive useful first tasks.
+87. Check how often progress estimates are uncertain.
