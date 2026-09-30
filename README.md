@@ -104,3 +104,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 68. Apply rate limits to automated GitHub actions.
 69. Avoid unsolicited mentions of maintainers.
 70. Respect repository rules about automated contributions.
+
+### Accessibility
+
+71. Use descriptive labels for controls.
