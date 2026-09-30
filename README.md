@@ -70,3 +70,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 
 41. Review changes against the original issue.
 42. Point to specific lines when raising a concern.
+43. Separate verified bugs from possible risks.
