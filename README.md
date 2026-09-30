@@ -95,3 +95,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 ### Trust and safety
 
 61. Require consent before posting comments or opening PRs.
+62. Use the least GitHub permissions needed for each feature.
