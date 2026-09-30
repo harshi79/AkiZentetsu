@@ -91,3 +91,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 58. Do not encourage self-interactions to inflate activity.
 59. Identify which activity data is unavailable.
 60. Show when achievement data was last checked.
+
+### Trust and safety
+
+61. Require consent before posting comments or opening PRs.
