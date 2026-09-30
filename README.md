@@ -56,3 +56,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 ### Co-authoring
 
 31. Ask before making changes to contributor-owned branches.
+32. Prefer focused patches over unrelated refactors.
