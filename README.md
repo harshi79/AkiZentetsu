@@ -103,3 +103,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 67. Provide a path to delete stored account data.
 68. Apply rate limits to automated GitHub actions.
 69. Avoid unsolicited mentions of maintainers.
+70. Respect repository rules about automated contributions.
