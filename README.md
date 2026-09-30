@@ -36,3 +36,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 15. Flag issues with unclear scope rather than guessing.
 16. Show the date when issue information was last refreshed.
 17. Distinguish labels from verified issue difficulty.
+18. Offer documentation tasks alongside code tasks.
