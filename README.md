@@ -138,3 +138,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 93. Test recommendation ranking against sample issues.
 94. Add integration tests before enabling write actions.
 95. Provide a dry-run preview for proposed GitHub posts.
+96. Make network failures recoverable.
