@@ -46,3 +46,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 22. Identify open questions before proposing implementation.
 23. Suggest a small first step for large tasks.
 24. List likely files only after inspecting the repository.
+25. Separate requirements from assumptions in a proposed plan.
