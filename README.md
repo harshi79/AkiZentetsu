@@ -108,3 +108,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 ### Accessibility
 
 71. Use descriptive labels for controls.
+72. Ensure keyboard access to the main workflow.
