@@ -140,3 +140,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 95. Provide a dry-run preview for proposed GitHub posts.
 96. Make network failures recoverable.
 97. Offer a changelog for user-visible behavior.
+98. Document known limitations alongside each release.
