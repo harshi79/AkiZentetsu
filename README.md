@@ -21,3 +21,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 3. Allow contributors to set a weekly time budget.
 4. Show why each suggested issue matches their preferences.
 5. Distinguish a first contribution from a familiar-repository task.
+6. Offer a way to save an issue for later.
