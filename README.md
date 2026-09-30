@@ -113,3 +113,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 74. Keep progress descriptions readable by screen readers.
 75. Make external GitHub links recognizable.
 76. Explain technical terms when first introduced.
+77. Use concise error messages with recovery steps.
