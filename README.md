@@ -137,3 +137,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 92. Document required GitHub permissions before adding login.
 93. Test recommendation ranking against sample issues.
 94. Add integration tests before enabling write actions.
+95. Provide a dry-run preview for proposed GitHub posts.
