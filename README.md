@@ -85,3 +85,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 52. Display observed achievements separately from estimates.
 53. Explain the evidence behind any progress estimate.
 54. Allow for GitHub rules changing without notice.
+55. Do not show a precise percentage when rules are unknown.
