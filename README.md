@@ -44,3 +44,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 
 21. Summarize the requested change before suggesting an approach.
 22. Identify open questions before proposing implementation.
+23. Suggest a small first step for large tasks.
