@@ -22,3 +22,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 4. Show why each suggested issue matches their preferences.
 5. Distinguish a first contribution from a familiar-repository task.
 6. Offer a way to save an issue for later.
+7. Allow dismissing a suggestion without posting on GitHub.
