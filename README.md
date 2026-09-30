@@ -130,3 +130,7 @@ The goal is useful contributions, not artificial activity or badge farming.
 88. Monitor failed GitHub API calls.
 89. Report aggregate metrics without exposing private activity.
 90. Use feedback to revise ranking criteria.
+
+### Delivery
+
+91. Start with a read-only prototype.
