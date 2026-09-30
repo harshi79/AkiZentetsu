@@ -34,3 +34,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 13. Consider whether maintainers have responded recently.
 14. Avoid recommending issues already assigned to someone else.
 15. Flag issues with unclear scope rather than guessing.
+16. Show the date when issue information was last refreshed.
