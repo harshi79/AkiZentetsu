@@ -116,3 +116,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 77. Use concise error messages with recovery steps.
 78. Allow users to pause notifications.
 79. Keep recommendation reasons readable on small screens.
+80. Test important flows without a mouse.
