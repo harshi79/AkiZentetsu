@@ -72,3 +72,4 @@ The goal is useful contributions, not artificial activity or badge farming.
 42. Point to specific lines when raising a concern.
 43. Separate verified bugs from possible risks.
 44. Prefer actionable suggestions over generic praise.
+45. Check whether tests cover the changed behavior.
